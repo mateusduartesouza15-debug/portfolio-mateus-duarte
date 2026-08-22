@@ -1,0 +1,11 @@
+node_modules/
+dist/
+outputs/
+work/
+plans/
+.env
+.env.*
+*.log
+.DS_Store
+Thumbs.db
+
